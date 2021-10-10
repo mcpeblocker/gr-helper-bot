@@ -1,1 +1,3 @@
-console.log('hi')
+import { config } from 'dotenv';
+config();
+import './src/main';

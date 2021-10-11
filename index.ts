@@ -1,3 +1,3 @@
 import { config } from 'dotenv';
 config();
-import './src/main';
+import './src/app';
